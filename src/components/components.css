@@ -1,0 +1,15 @@
+.selected {
+  background-color: rgb(255, 208, 208);
+  border: 3px solid red;
+  box-shadow: 0.5rem 0.5rem 0.5rem rgba(80, 80, 80);
+  cursor: "pointer";
+}
+
+.card-filter {
+  display: flex;
+  justify-content: space-between;
+}
+
+.latest-releases {
+  /* background-color: aquamarine; */
+}
